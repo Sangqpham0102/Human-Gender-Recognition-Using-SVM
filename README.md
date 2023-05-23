@@ -1,1 +1,1 @@
-# Nhận dnagj giới tính con người bằng SVM
+# Nhận dạng giới tính con người bằng SVM
