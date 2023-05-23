@@ -1,2 +1,1 @@
-# svm
-khong co
+# Nhận dnagj giới tính con người bằng SVM
